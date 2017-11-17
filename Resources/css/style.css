@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+#header {
+  color: white;
+  background-image: url("Resources/images/background.png");
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+.link{
+  font-size: 18px;
+}
