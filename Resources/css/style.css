@@ -3,13 +3,15 @@ body {
   text-align: center;
 }
 #header {
-  color: white;
-  background-image: url("Resources/images/background.png");
+  background-image: url("/Users/hhscheller/Documents/CodeAcademy/CodeAcademyProjects/Broadway/Resources/images/background.png");
+/* Don't really know why I had to put the full path here, instead of just project path.*/
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
+  color: white;
 }
 .link{
   font-size: 18px;
+  color: white;
 }
