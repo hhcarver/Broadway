@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 #header {
-  background-image: url("/Users/hhscheller/Documents/CodeAcademy/CodeAcademyProjects/Broadway/Resources/images/background.png");
+  background-image: url("Resources/images/background.png");
 /* Don't really know why I had to put the full path here, instead of just project path.*/
 }
 h1 {
@@ -27,7 +27,7 @@ p {
   font-size: 14px;
 }
 #split {
-  background-image: url("/Users/hhscheller/Documents/CodeAcademy/CodeAcademyProjects/Broadway/Resources/images/background.png");
+  background-image: url("Resources/images/background.png");
   color: white;
 }
 #bottomline {
